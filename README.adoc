@@ -11,4 +11,4 @@ Please be sure before attending the class make sure you have the following items
 3. Text Editor or IDE (Labs can be done with a text editor and command line)
 4. RabbitMQ.  If not already installed we have instructions provided to you here for MacOSX and Windows installation.
 
-While internet is provided by DevNexus usually there is a large spike in internet usage in the mornings of the workshops, so we ask that you download the Spring Cloud Data Flow Server and Spring Cloud Data Flow Shell before class.  
+While internet is provided by DevNexus usually there is a large spike in internet usage in the mornings of the workshops, so we ask that you download the http://repo.spring.io/release/org/springframework/cloud/spring-cloud-dataflow-server-local/1.1.2.RELEASE/spring-cloud-dataflow-server-local-1.1.2.RELEASE.jar[Spring Cloud Data Flow Server] jar and http://repo.spring.io/release/org/springframework/cloud/spring-cloud-dataflow-shell/1.1.2.RELEASE/spring-cloud-dataflow-shell-1.1.2.RELEASE.jar[Spring Cloud Data Flow Shell] jar before class.  
