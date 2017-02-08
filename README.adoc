@@ -2,7 +2,7 @@
 
 This repository contains the presentations and lab materials for the Spring Cloud Data Flow workshop for DevNexus.
 
-== Preparation for the class
+== Preparation for the workshop
 
 Before attending the class please be sure you have the following items installed on the laptop you are bringing to class.
 
