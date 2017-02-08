@@ -9,6 +9,6 @@ Before attending the class please be sure you have the following items installed
 1. Maven
 2. Java 8
 3. Text Editor or IDE (Labs can be done with a text editor and command line)
-4. RabbitMQ.  If not already installed we have instructions provided to you here for MacOSX and Windows installation.
+4. RabbitMQ.  If not already installed we have instructions provided to you https://github.com/cppwfs/DNDataflow/blob/master/labs/InstallRabbitnMQ.pdf[here] for MacOSX and Windows installation.
 
 Also please download the http://repo.spring.io/release/org/springframework/cloud/spring-cloud-dataflow-server-local/1.1.2.RELEASE/spring-cloud-dataflow-server-local-1.1.2.RELEASE.jar[Spring Cloud Data Flow Server] and http://repo.spring.io/release/org/springframework/cloud/spring-cloud-dataflow-shell/1.1.2.RELEASE/spring-cloud-dataflow-shell-1.1.2.RELEASE.jar[Spring Cloud Data Flow Shell] jars before class.
