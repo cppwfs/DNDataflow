@@ -2,13 +2,15 @@
 
 This repository contains the presentations and lab materials for the Spring Cloud Data Flow workshop for DevNexus.
 
-== Preparation for the class
+== Preparation for the workshop
 
-Before attending the class please be sure you have the following items installed on the laptop you are bringing to class.
+Before attending the class, please be sure you have the following items installed on the laptop you are bringing to class.
 
-1. Maven
-2. Java 8
+1. Apache Maven
+2. JDK 8
 3. Text Editor or IDE (Labs can be done with a text editor and command line)
-4. RabbitMQ.  If not already installed we have instructions provided to you here for MacOSX and Windows installation.
+4. git
+5. RabbitMQ.  If not already installed we have instructions provided to you https://github.com/cppwfs/DNDataflow/blob/master/labs/InstallRabbitnMQ.pdf[here] for MacOSX and Windows installation.
+6. Please download the http://repo.spring.io/release/org/springframework/cloud/spring-cloud-dataflow-server-local/1.1.2.RELEASE/spring-cloud-dataflow-server-local-1.1.2.RELEASE.jar[Spring Cloud Data Flow Server] and http://repo.spring.io/release/org/springframework/cloud/spring-cloud-dataflow-shell/1.1.2.RELEASE/spring-cloud-dataflow-shell-1.1.2.RELEASE.jar[Spring Cloud Data Flow Shell] jars before class.
 
-Also please download the http://repo.spring.io/release/org/springframework/cloud/spring-cloud-dataflow-server-local/1.1.2.RELEASE/spring-cloud-dataflow-server-local-1.1.2.RELEASE.jar[Spring Cloud Data Flow Server] and http://repo.spring.io/release/org/springframework/cloud/spring-cloud-dataflow-shell/1.1.2.RELEASE/spring-cloud-dataflow-shell-1.1.2.RELEASE.jar[Spring Cloud Data Flow Shell] jars before class.
+If you cannot get access to github we will have a limited number of thumb drives containing the content of this GitHub workshop repository as well as the Spring Cloud Data Flow Server,  Shell, and the necessary uber-jars for lab exercise.
