@@ -59,8 +59,9 @@
 		application. If included, it will take precedence and the rabbit
 		binder wouldn't take into account at runtime.-->
 		<!--<dependency>
-			<groupId>org.springframework.cloud</groupId>
+			<groupId>org.spring-milestonesframework.cloud</groupId>
 			<artifactId>spring-cloud-stream-test-support</artifactId>
+			<scope>test</scope>
 		</dependency>-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
