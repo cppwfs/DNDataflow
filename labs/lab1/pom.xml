@@ -58,11 +58,11 @@
 		required only for integration tests; DO NOT include it in the
 		application. If included, it will take precedence and the rabbit
 		binder wouldn't take into account at runtime.-->
-		<!--<dependency>
-			<groupId>org.spring-milestonesframework.cloud</groupId>
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-stream-test-support</artifactId>
 			<scope>test</scope>
-		</dependency>-->
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
